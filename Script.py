@@ -676,13 +676,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Pvs_movie'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Pvs_movie'>owner🇮🇳</a>
 
--Dev 2 <a href='https://t.me/pvs_movies_updates'>VJ</a>
+-Dev 2 <a href='https://t.me/pvs_movies_updates'>channel</a>
 
--Dev 3 <a href='https://t.me/pvs_movies_updates>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/pvs_movies_updates>Jᴏᴇʟ </> channel</a>
 
-- Dev 4 <a href='https://t.me/Pvs_movie'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/Pvs_movie'>owner</a>
 """
 
 
