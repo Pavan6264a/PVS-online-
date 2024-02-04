@@ -60,7 +60,7 @@ async def start(client, message):
                 ],[
                   InlineKeyboardButton('💌 Premium 💌', callback_data='source')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url="https://t.me/pvs_movies_updates")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
