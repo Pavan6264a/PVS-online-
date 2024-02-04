@@ -20,12 +20,34 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>PREMIUM DETAILS 
 
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
+⚡️Buy Premium Now
 
-Where is source code? - <a href='https://t.me/Pvs_movie'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+ ╭━━━━━━━━╮
+    Premium Plans
+  • ₹10 - 1 week (Trial)
+  • ₹30 - 1 Month 
+  • ₹50 - 2 Months
+  • ₹80 - 3 Months
+  • ₹140 - 6 Months
+  • ₹200 - 1 Year
+╰━━━━━━━━╯
 
+Premium Features ♤ᵀ&ᶜ
+
+☆ New/Old Movies and Series
+☆ High Quality available
+☆ Get Files Directly 
+☆ High speed Download links
+☆ Full Admin support 
+☆ Request will be completed in 1 hour if available and etc
+
+ᴜᴘɪ ɪᴅ ➢ Updating 
+
+⚠️Send SS After Payment⚠️
+
+~ After sending a Screenshot please give us some time to add you in the premium version.
 
 Developer - <a href='https://t.me/Pvs_movie'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
