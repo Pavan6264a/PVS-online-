@@ -54,7 +54,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'moneykamalo.com')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'turabox.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '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')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
