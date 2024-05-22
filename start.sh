@@ -12,3 +12,4 @@ fi
 cd /VJ-FILTER-BOT 
 echo "Starting Bot...."
 python3 bot.py
+# Don't Remove Credit @VJ_Botz
